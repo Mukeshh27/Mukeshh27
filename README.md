@@ -51,10 +51,15 @@
 - Used classification algorithms  
 
 ---
+<p>
+<a href="https://linkedin.com/in/ANANTHA MUKESH PAANDITHEVAN">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+</a>
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+<a href="mailto:anantha2706@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge">
+</a>
+</p>
 
 ---
 
