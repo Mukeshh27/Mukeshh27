@@ -51,14 +51,14 @@
 - Used classification algorithms  
 
 ---
-<p>
-<a href="https://linkedin.com/in/ANANTHA MUKESH PAANDITHEVAN">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anantha-mukesh-paandithevan-91bb993a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Anantha%20Mukesh-blue?logo=linkedin&style=for-the-badge">
+  </a>
 
-<a href="mailto:anantha2706@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge">
-</a>
+  <a href="mailto:anantha2706@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anantha2706%40gmail.com-red?logo=gmail&style=for-the-badge">
+  </a>
 </p>
 
 ---
