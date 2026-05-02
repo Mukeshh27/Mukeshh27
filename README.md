@@ -12,16 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="280" src="[https://github.com/Mukeshh27/Mukeshh27/blob/main/profile.png]" alt="Anantha Mukesh" style="border-radius: 16px; margin-left: 20px;"/>
-
-<!-- 
-  📸 HOW TO ADD YOUR PHOTO:
-  1. Upload your photo to your GitHub repo (e.g. your profile repo Mukeshh27/Mukeshh27)
-  2. Click "Add file → Upload files" → upload your photo (name it: profile.jpg)
-  3. Click on the uploaded image → right-click → "Copy image address"
-  4. Replace "https://YOUR_IMAGE_URL_HERE" above with that link
-  Example: src="https://raw.githubusercontent.com/Mukeshh27/Mukeshh27/main/profile.jpg"
--->
+<img align="right" width="250" src="https://raw.githubusercontent.com/Mukeshh27/Mukeshh27/main/profile.png" alt="Anantha Mukesh" style="border-radius: 16px; margin-left: 20px;"/>
 
 ```python
 class AnanthaMukesh:
